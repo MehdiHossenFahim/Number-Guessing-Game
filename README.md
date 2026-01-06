@@ -10,7 +10,7 @@
 Welcome to the **Number Guessing Game** – a fun, interactive, and addictive Python console game!  
 Test your intuition, sharpen your logic, and see if you can beat the computer. 🕹️  
 
-![Number Guessing Game GIF](https://media.giphy.com/media/l2SpUotfV1V0b0M3K/giphy.gif)
+!![Gameplay GIF](assets/gameplay.gif)
 
 ---
 
