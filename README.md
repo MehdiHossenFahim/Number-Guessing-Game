@@ -1,4 +1,3 @@
-````
 # 🎯 Number Guessing Game
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge)
@@ -142,4 +141,3 @@ This project is open-source and available under the **MIT License**.
 
 ```
 
-```
