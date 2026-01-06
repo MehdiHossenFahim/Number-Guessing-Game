@@ -1,4 +1,4 @@
-
+````
 # 🎯 Number Guessing Game
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge)
@@ -10,7 +10,7 @@
 Welcome to the **Number Guessing Game** – a fun, interactive, and addictive Python console game!  
 Test your intuition, sharpen your logic, and see if you can beat the computer. 🕹️  
 
-!![Gameplay GIF](assets/gameplay.gif)
+![Gameplay GIF](assets/gameplay.gif) <!-- Use a small GIF under ~3MB -->
 
 ---
 
@@ -67,7 +67,7 @@ python number_guessing_game.py
 
 ## 💡 Example Gameplay
 
-
+```
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
 You have 5 chances to guess the correct number.
@@ -88,16 +88,16 @@ Incorrect! The number is less than 75.
 
 Congratulations! You guessed the correct number in 3 attempts.
 Do you want to play again? (y) or (n): n
+```
 
-
-
+---
 
 ## ⚡ Tech Stack
 
 * **Language**: Python 3
 * **Libraries**: `random` (standard library)
 
-
+---
 
 ## 🎨 Why This Game Stands Out
 
@@ -113,8 +113,10 @@ Do you want to play again? (y) or (n): n
 ```
 Number-Guessing-Game/
 │
+├── assets/                  # Folder containing GIFs or images
+│    └── gameplay.gif        # Gameplay preview
 ├── number_guessing_game.py  # Main Python script
-└── README.md               # Project documentation
+└── README.md                # Project documentation
 ```
 
 ---
@@ -138,8 +140,6 @@ This project is open-source and available under the **MIT License**.
 
 > Made with ❤️ and Python by **Mehedi Hossen Fahim**
 
+```
 
-
-
-
-[# Number-Guessing-Game](https://roadmap.sh/projects/number-guessing-game)
+```
