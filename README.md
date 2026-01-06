@@ -2,7 +2,6 @@
 # 🎯 Number Guessing Game
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MehdiHossenFahim/Number-Guessing-Game?style=for-the-badge)
 
 ---
