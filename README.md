@@ -139,5 +139,5 @@ This project is open-source and available under the **MIT License**.
 
 > Made with ❤️ and Python by **Mehedi Hossen Fahim**
 
-```
+
 [https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
