@@ -1,8 +1,9 @@
 # 🎯 Number Guessing Game
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=for-the-badge)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/MehdiHossenFahim/Number-Guessing-Game?style=for-the-badge)
+[![GitHub last commit](https://img.shields.io/github/last-commit/MehdiHossenFahim/Number-Guessing-Game?style=for-the-badge)](https://github.com/MehdiHossenFahim/Number-Guessing-Game)
+
 
 ---
 
